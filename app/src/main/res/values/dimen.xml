@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_spacing">16dp</dimen>
+    <dimen name="width_button">88dp</dimen>
+    <dimen name="height_button">32dp</dimen>
+    <dimen name="button_text_size">13sp</dimen>
+</resources>
